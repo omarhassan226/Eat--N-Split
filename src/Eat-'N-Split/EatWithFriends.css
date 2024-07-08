@@ -1,0 +1,89 @@
+.main{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.img{
+    width: 20%;
+    border-radius: 50%;
+}
+
+.friendList{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.nameBalance{
+    display: flex;
+    flex-direction: column;
+}
+
+.red{
+    color: red;
+}
+
+.green{
+    color: green;
+}
+
+.black{
+    color: black;
+}
+
+.formElements{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.button{
+    background-color: #4CAF50;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.formText{
+    text-align: left;
+}
+
+.buttonDiv{
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px;
+}
+
+.formSection{
+    padding-top: 30px;
+}
+
+.headers{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.splitForm{
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.form{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.formContainer{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
